@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imd/AirQuality.png</file>
+        <file>imd/baoxue.png</file>
+        <file>imd/baoyu.png</file>
+        <file>imd/clear.png</file>
+        <file>imd/clear_2.png</file>
+        <file>imd/dabaoyu.png</file>
+        <file>imd/daxue.png</file>
+        <file>imd/dayu.png</file>
+        <file>imd/dongyu.png</file>
+        <file>imd/duoyun.png</file>
+        <file>imd/exec.png</file>
+        <file>imd/feng.png</file>
+        <file>imd/find.png</file>
+        <file>imd/leizhenyu.png</file>
+        <file>imd/leizhenyubanBingbao.png</file>
+        <file>imd/lightRain.png</file>
+        <file>imd/mai.png</file>
+        <file>imd/ShiDu.png</file>
+        <file>imd/wu.png</file>
+        <file>imd/wuMai.png</file>
+        <file>imd/xiaoxue.png</file>
+        <file>imd/xiaoyu.png</file>
+        <file>imd/xue.png</file>
+        <file>imd/yin.png</file>
+        <file>imd/yujiaxue.png</file>
+        <file>imd/zhenxue.png</file>
+        <file>imd/zhenyu.png</file>
+        <file>imd/zhongyu.png</file>
+        <file>imd/zhonngxue.png</file>
+    </qresource>
+</RCC>
